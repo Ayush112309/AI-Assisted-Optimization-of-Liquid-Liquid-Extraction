@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mass-transfer-digital-twin"
+version = "0.1.0"
+description = "Digital twin for multistage liquid-liquid extraction with PyQt6 GUI and PyTorch surrogate modeling."
+readme = "README.md"
+requires-python = ">=3.9"
+dynamic = ["dependencies"]
+
+[project.scripts]
+mass-transfer-gui = "mass_transfer.gui.main_window:main"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+include = ["mass_transfer*"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools.package-data]
+mass_transfer = ["resources/data/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

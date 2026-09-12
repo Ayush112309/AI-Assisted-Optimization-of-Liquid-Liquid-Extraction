@@ -1,0 +1,30 @@
+{
+  "phase_1": [
+    { "cottonseed_oil": 63.5, "oleic_acid": 0.0, "propane": 36.5 },
+    { "cottonseed_oil": 57.2, "oleic_acid": 5.5, "propane": 37.3 },
+    { "cottonseed_oil": 52.0, "oleic_acid": 9.0, "propane": 39.0 },
+    { "cottonseed_oil": 46.7, "oleic_acid": 13.8, "propane": 39.5 },
+    { "cottonseed_oil": 39.8, "oleic_acid": 18.7, "propane": 41.5 },
+    { "cottonseed_oil": 31.0, "oleic_acid": 26.3, "propane": 42.7 },
+    { "cottonseed_oil": 26.9, "oleic_acid": 29.4, "propane": 43.7 },
+    { "cottonseed_oil": 21.0, "oleic_acid": 32.4, "propane": 46.6 },
+    { "cottonseed_oil": 14.2, "oleic_acid": 37.4, "propane": 48.4 },
+    { "cottonseed_oil": 8.3, "oleic_acid": 39.5, "propane": 52.2 },
+    { "cottonseed_oil": 4.5, "oleic_acid": 41.1, "propane": 54.4 },
+    { "cottonseed_oil": 0.8, "oleic_acid": 43.7, "propane": 55.5 }
+  ],
+  "phase_2": [
+    { "cottonseed_oil": 2.30, "oleic_acid": 0.0, "propane": 97.7 },
+    { "cottonseed_oil": 1.95, "oleic_acid": 0.76, "propane": 97.3 },
+    { "cottonseed_oil": 1.78, "oleic_acid": 1.21, "propane": 97.0 },
+    { "cottonseed_oil": 1.50, "oleic_acid": 1.90, "propane": 96.6 },
+    { "cottonseed_oil": 1.36, "oleic_acid": 2.73, "propane": 95.9 },
+    { "cottonseed_oil": 1.20, "oleic_acid": 3.8, "propane": 95.0 },
+    { "cottonseed_oil": 1.10, "oleic_acid": 4.4, "propane": 94.5 },
+    { "cottonseed_oil": 1.0, "oleic_acid": 5.1, "propane": 93.9 },
+    { "cottonseed_oil": 0.8, "oleic_acid": 6.1, "propane": 93.1 },
+    { "cottonseed_oil": 0.7, "oleic_acid": 7.2, "propane": 92.1 },
+    { "cottonseed_oil": 0.4, "oleic_acid": 6.1, "propane": 93.5 },
+    { "cottonseed_oil": 0.2, "oleic_acid": 5.5, "propane": 94.3 }
+  ]
+}

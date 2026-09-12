@@ -1,0 +1,24 @@
+{
+  "phase_1": [
+    { "water": 98.1, "acetic_acid": 0.69, "isopropyl_ether": 1.2 },
+    { "water": 97.1, "acetic_acid": 1.41, "isopropyl_ether": 1.5 },
+    { "water": 95.5, "acetic_acid": 2.89, "isopropyl_ether": 1.6 },
+    { "water": 91.7, "acetic_acid": 6.42, "isopropyl_ether": 1.9 },
+    { "water": 84.4, "acetic_acid": 13.30, "isopropyl_ether": 2.3 },
+    { "water": 71.1, "acetic_acid": 25.50, "isopropyl_ether": 3.4 },
+    { "water": 58.9, "acetic_acid": 36.70, "isopropyl_ether": 4.4 },
+    { "water": 45.1, "acetic_acid": 44.30, "isopropyl_ether": 10.6 },
+    { "water": 37.1, "acetic_acid": 46.40, "isopropyl_ether": 16.5 }
+  ],
+  "phase_2": [
+    { "water": 0.5, "acetic_acid": 0.18, "isopropyl_ether": 99.3 },
+    { "water": 0.7, "acetic_acid": 0.37, "isopropyl_ether": 98.9 },
+    { "water": 0.8, "acetic_acid": 0.79, "isopropyl_ether": 98.4 },
+    { "water": 1.0, "acetic_acid": 1.93, "isopropyl_ether": 97.1 },
+    { "water": 1.9, "acetic_acid": 4.82, "isopropyl_ether": 93.3 },
+    { "water": 3.9, "acetic_acid": 11.40, "isopropyl_ether": 84.7 },
+    { "water": 6.9, "acetic_acid": 21.60, "isopropyl_ether": 71.5 },
+    { "water": 10.8, "acetic_acid": 31.10, "isopropyl_ether": 58.1 },
+    { "water": 15.1, "acetic_acid": 36.20, "isopropyl_ether": 48.7 }
+  ]
+}
